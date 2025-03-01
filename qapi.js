@@ -5,7 +5,8 @@ export default {
 			"name": "root",
 			"children": [
 				"677c6de9e5d27700189acbbc",
-				"677c6de9e5d27700189acbc0"
+				"677c6de9e5d27700189acbc0",
+				"67c260d228b5e30023b0de48"
 			],
 			"id": "root"
 		},
@@ -21,6 +22,11 @@ export default {
 			"seo": {
 				"title": ""
 			}
+		},
+		"67c260d228b5e30023b0de48": {
+			"id": "67c260d228b5e30023b0de48",
+			"pageUrl": "labelmgmt",
+			"name": "labelmgmt"
 		}
 	},
 	"mode": "production",
