@@ -8,9 +8,6 @@ const pageStyles = {
     },
     "index": {
         "background": ""
-    },
-    "labelmgmt": {
-        "background": ""
     }
 };
 
