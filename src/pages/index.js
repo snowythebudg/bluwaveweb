@@ -152,7 +152,7 @@ export default (() => {
 			</Text>
 			<Text as="p" font="--lead" margin="40px 0 20px 0">
 				XZ1 Recordings, also known as XZ1 Recording Ventures is a distribution-focused record label focusing on smaller releases (singles, EPs, eventually albums) and focuses on upcoming artists. You can check out XZ1 Recordings at{" "}
-				<Link href="#">
+				<Link href="https://xzone.64-b.it">
 					https://xzone.64-b.it
 				</Link>
 			</Text>
