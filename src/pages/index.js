@@ -89,7 +89,7 @@ export default (() => {
 				<Icon category="md" margin="0 auto" icon={MdArrowDownward} />
 			</Box>
 		</Section>
-		<Section padding="100px 40px 100px 40px" background="--color-dark" sm-padding="40px 20px 40px 20px" lg-background="#000000">
+		<Section padding="100px 40px 100px 40px" sm-padding="40px 20px 40px 20px" lg-background="#000000" background="#000000">
 			<Override
 				slot="SectionContent"
 				flex-direction="row"
@@ -125,7 +125,7 @@ export default (() => {
 					md-width="540px"
 					lg-color="#ffffff"
 				>
-					BluWave Digital Entertainment is a all-inclusive entertainment and label management company owned and operated by BudgieMint. We run multiple companies specializing in media and entertainment services. You can see the (currently small) list of the companies we manage down below. You can also read about and apply for label distribution management services
+					BluWave Digital Entertainment is a all-inclusive entertainment company owned and operated by BudgieMint. We run multiple companies specializing in media and entertainment services. You can see the (currently small) list of the companies we manage down below. You can also read about and apply for services from one of our companies!
 				</Text>
 			</Box>
 		</Section>
@@ -204,7 +204,7 @@ export default (() => {
 				Fusion Audio Distribution
 			</Text>
 			<Text as="p" font="--lead" margin="40px 0 20px 0">
-				Fusion Audio Distribution is a free to use music distribution service founded in April 2024. Fusion Audio Distribution is in the process of shutting down. All releases are being redirected to XZ1 Recordings (see above). You can check out Fusion Audio Distribution at{" "}
+				Fusion Audio Distribution is a free to use music distribution service founded in April 2024. Fusion Audio Distribution is now shut down. All releases are being redirected to XZ1 Recordings (see above). You can check out Fusion Audio Distribution at{" "}
 				<Link
 					href="#"
 					overflow-wrap="normal"

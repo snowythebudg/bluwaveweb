@@ -3,7 +3,7 @@ module.exports = {
         title: "Quarkly gatsby project",
         description: "",
         author: "@budgiemint",
-        siteUrl: "https://vista.32-b.it"
+        siteUrl: "https://bluwave.16-b.it"
     },
     plugins: [
         "gatsby-plugin-react-helmet",
