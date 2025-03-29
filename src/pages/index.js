@@ -13,9 +13,9 @@ export default (() => {
 			<title>
 				Quarkly export
 			</title>
-			<meta name={"description"} content={"The holdings company with a focus on media. See beyond. Experience Tomorrow"} />
-			<meta property={"og:title"} content={"Second Vista Holdings | See Beyond, Experience Tomorrow."} />
-			<meta property={"og:description"} content={"The holdings company with a focus on media. See beyond. Experience Tomorrow"} />
+			<meta name={"description"} content={"The premier company in music entertainment. Parent company of XZ1 Recordings."} />
+			<meta property={"og:title"} content={"BluWave Digital Entertainment "} />
+			<meta property={"og:description"} content={"The premier company in music entertainment. Parent company of XZ1 Recordings."} />
 			<meta property={"og:image"} content={"https://uploads.quarkly.io/677c6de9e5d27700189acb9e/images/Second%20Vista%20Holdings.jpg?v=2025-01-09T04:25:47.071Z"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/677c6de9e5d27700189acb9e/images/Emey87-Trainee-Magic.32.png?v=2025-01-09T04:21:22.159Z"} type={"image/x-icon"} />
 			<link rel={"apple-touch-icon"} href={"https://uploads.quarkly.io/6309b04d5e5c6e0021560652/images/hellstrom-favicon-152.png?v=2023-03-29T20:05:05.735Z"} />
