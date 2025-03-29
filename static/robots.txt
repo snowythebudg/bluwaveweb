@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bluwave.16-b.it/sitemap-index.xml
+Sitemap: https://bluwave.xz1recordings.ca/sitemap-index.xml

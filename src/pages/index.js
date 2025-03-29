@@ -151,9 +151,19 @@ export default (() => {
 				XZ1 Recordings
 			</Text>
 			<Text as="p" font="--lead" margin="40px 0 20px 0">
-				XZ1 Recordings, also known as XZ1 Recording Ventures is a distribution-focused record label focusing on smaller releases (singles, EPs, eventually albums) and focuses on upcoming artists. You can check out XZ1 Recordings at{" "}
-				<Link href="https://xzone.64-b.it">
-					https://xzone.64-b.it
+				XZ1 Recordings, also known as XZ1 Recording Ventures is a distribution-focused record label (now full-service) that focuses on upcoming artists. XZ1 Recordings is an MN2S distributed label and is serviced by FUGA. You can check out XZ1 Recordings at{" "}
+				<Link
+					href="#"
+					overflow-wrap="normal"
+					word-break="normal"
+					white-space="normal"
+					text-indent="0"
+					text-overflow="clip"
+					hyphens="manual"
+					user-select="auto"
+					pointer-events="auto"
+				>
+					https://xz1recordings.ca
 				</Link>
 			</Text>
 		</Section>
@@ -188,6 +198,47 @@ export default (() => {
 			color="--light"
 			padding="80px 0"
 			sm-padding="40px 0"
+			background="#000000"
+		>
+			<Text
+				as="h5"
+				font="--lead"
+				margin="10px 0 0 0"
+				text-transform="uppercase"
+				letter-spacing="5px"
+			>
+				AUDIO EDITING
+			</Text>
+			<Text as="h1" font="--headline1" md-font="--headline2" margin="10px 0 0 0">
+				XZ1 Creative Audio Industries
+			</Text>
+			<Text as="p" font="--lead" margin="40px 0 20px 0">
+				XZ1 Creative Audio Industries is the audio editing division of XZ1 Recordings. XZ1CAI offers mixing, mastering, audio editing, and 5.1 Surround mixing/mastering. These services are included for free if you are a client of XZ1 Recordings. Non-label clients can get access to our services by purchasing one of the tiers and sending an email to support. You can view our non-label client pricing on{" "}
+				<Link
+					href="#"
+					overflow-wrap="normal"
+					word-break="normal"
+					white-space="normal"
+					text-indent="0"
+					text-overflow="clip"
+					hyphens="manual"
+					user-select="auto"
+					pointer-events="auto"
+				>
+					https://xz1recordings.ca
+				</Link>
+				{" "}and read more information on{" "}
+				<Link href="#">
+					https://creativeaudio.xz1recordings.ca
+				</Link>
+			</Text>
+		</Section>
+		<Section
+			text-align="center"
+			background-color="--primary"
+			color="--light"
+			padding="80px 0"
+			sm-padding="40px 0"
 			lg-background="#000000"
 			background="#000000"
 		>
@@ -204,19 +255,9 @@ export default (() => {
 				Fusion Audio Distribution
 			</Text>
 			<Text as="p" font="--lead" margin="40px 0 20px 0">
-				Fusion Audio Distribution is a free to use music distribution service founded in April 2024. Fusion Audio Distribution is now shut down. All releases are being redirected to XZ1 Recordings (see above). You can check out Fusion Audio Distribution at{" "}
-				<Link
-					href="#"
-					overflow-wrap="normal"
-					word-break="normal"
-					white-space="normal"
-					text-indent="0"
-					text-overflow="clip"
-					hyphens="manual"
-					user-select="auto"
-					pointer-events="auto"
-				>
-					https://fusion.l5.ca
+				Fusion Audio Distribution was a free to use music distribution service founded in April 2024. Fusion Audio Distribution is now shut down. All releases are being redirected to XZ1 Recordings (see above). You can check out Fusion Audio Distribution at{" "}
+				<Link href="#">
+					https://fusion.xz1recordings.ca
 				</Link>
 			</Text>
 		</Section>
